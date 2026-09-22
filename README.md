@@ -4,4 +4,4 @@ Hi. My name is Rich Hildred. The favourite thing that I wrote was a speech welco
 
 My speech was well received and I remember the things that I said about love in that speech from time to time when I need to be reminded to act lovingly.
 
-![Tim and Fleur taken by me]("tim_and_fleur.jpg")
+![Tim and Fleur taken by me](tim_and_fleur.jpg)
